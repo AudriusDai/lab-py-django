@@ -7,21 +7,16 @@ from django.db import models
 
 
 class TutorialAdmin(admin.ModelAdmin):
-    fieldsets = (
-        ("Title/date", {
-         "fields": (
-             "tutorial_title", "tutorial_published",
-         ),
-         }),
-        ("Content", {
-         "fields": (
-             "tutorial_content",
-         ),
-         }),
-    )
+
+    fieldsets = [
+        ("Title/date", {'fields': ["tutorial_title", "tutorial_published"]}),
+        ("URL", {'fields': ["tutorial_slug"]}),
+        ("Series", {'fields': ["tutorial_series"]}),
+        ("Content", {"fields": ["tutorial_content"]})
+    ]
 
     formfield_overrides = {
-        models.TextField: {'widget': TinyMCE()},
+        models.TextField: {'widget': TinyMCE(attrs={'cols': 80, 'rows': 30})},
     }
 
 

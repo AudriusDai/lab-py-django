@@ -71,3 +71,7 @@ https://pythonprogramming.net/user-login-logout-django-tutorial/?completed=/mess
 ## [Linking models with Foreign Keys](https://www.youtube.com/watch?v=Rju5qdU0e58&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=9)
 
 https://pythonprogramming.net/foreign-keys-django-tutorial/?completed=/user-login-logout-django-tutorial/
+
+## [Working with Foreign Keys](https://www.youtube.com/watch?v=NqHX4eF2tw8&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=10)
+
+https://pythonprogramming.net/working-foreign-keys-django-tutorial/?completed=/foreign-keys-django-tutorial/
