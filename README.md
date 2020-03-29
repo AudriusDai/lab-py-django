@@ -1,6 +1,6 @@
 # lab-py-django
 
-Experimenting with Python and [Django](https://www.djangoproject.com/) for web development. Checking tutorial series - [Django Web Development with Python](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
+Experimenting with Python and [Django](https://www.djangoproject.com/) for web development. Checking tutorial series - [Django Web Development with Python](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3). Also the text tutorials - [Django Web Development with Python (text)](https://pythonprogramming.net/admin-apps-django-tutorial/)
 
 ## [Introduction](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
 
@@ -30,3 +30,24 @@ If making/updating the model you have to do migrations. But before running the m
 > py manage.py makemigrations
 > py manage.py migrate
 ```
+
+## [Admin and Apps](https://www.youtube.com/watch?v=BJfyATa9nX0&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=3)
+
+```
+> py manage.py createsuperuser
+Username: <user>
+Email address: <email>
+Password: <pwd>
+```
+
+Install text widget and use for text fields.
+
+```
+> pip install django-tinymce4-lite
+```
+
+Follow the [Admin and Apps - Django Tutorial](https://pythonprogramming.net/admin-apps-django-tutorial/) text version.
+
+## [Views and Templates](https://www.youtube.com/watch?v=j9elKTmCEhY&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=4)
+
+https://pythonprogramming.net/views-templates-django-tutorial/?completed=/admin-apps-django-tutorial/
