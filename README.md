@@ -23,3 +23,14 @@ If interested, you can read about Flask vs Django topics.
 ```
 > py manage.py runserver  #run the site by default on http://127.0.0.1:8000/.
 ```
+
+## [Models](https://www.youtube.com/watch?v=aXxIjeGR6po&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=2)
+
+Create/define model -> make migrations -> migrate model. `(model == table)`
+
+If making/updating the model you have to do migrations. But before running the migrations, we have to actually install the `crawlers_auto` app. The initial create operation was not enough. Apparently you have to also do the `install`. Add sub-app into config of core app.
+
+```
+> py manage.py makemigrations
+> py manage.py migrate
+```
