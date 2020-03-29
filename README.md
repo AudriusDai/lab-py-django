@@ -64,6 +64,10 @@ https://pythonprogramming.net/user-registration-django-tutorial/?completed=/css-
 
 https://pythonprogramming.net/messages-django-tutorial/?completed=/user-registration-django-tutorial/
 
-## [User Login and Logout ](https://www.youtube.com/watch?v=79A1YoQ5ZJc&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=8)
+## [User Login and Logout](https://www.youtube.com/watch?v=79A1YoQ5ZJc&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=8)
 
 https://pythonprogramming.net/user-login-logout-django-tutorial/?completed=/messages-django-tutorial/
+
+## [Linking models with Foreign Keys](https://www.youtube.com/watch?v=Rju5qdU0e58&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=9)
+
+https://pythonprogramming.net/foreign-keys-django-tutorial/?completed=/user-login-logout-django-tutorial/
