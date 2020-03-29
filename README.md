@@ -51,3 +51,7 @@ Follow the [Admin and Apps - Django Tutorial](https://pythonprogramming.net/admi
 ## [Views and Templates](https://www.youtube.com/watch?v=j9elKTmCEhY&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=4)
 
 https://pythonprogramming.net/views-templates-django-tutorial/?completed=/admin-apps-django-tutorial/
+
+## [CSS](https://www.youtube.com/watch?v=a3d_nyccpM8&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=5)
+
+https://pythonprogramming.net/css-django-tutorial/?completed=/views-templates-django-tutorial/
