@@ -63,3 +63,7 @@ https://pythonprogramming.net/user-registration-django-tutorial/?completed=/css-
 ## [Messages and Includes](https://www.youtube.com/watch?v=0VGJPg0SQIY&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=7)
 
 https://pythonprogramming.net/messages-django-tutorial/?completed=/user-registration-django-tutorial/
+
+## [User Login and Logout ](https://www.youtube.com/watch?v=79A1YoQ5ZJc&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=8)
+
+https://pythonprogramming.net/user-login-logout-django-tutorial/?completed=/messages-django-tutorial/
