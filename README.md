@@ -55,3 +55,11 @@ https://pythonprogramming.net/views-templates-django-tutorial/?completed=/admin-
 ## [CSS](https://www.youtube.com/watch?v=a3d_nyccpM8&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=5)
 
 https://pythonprogramming.net/css-django-tutorial/?completed=/views-templates-django-tutorial/
+
+## [User Registration](https://www.youtube.com/watch?v=riXD5lSInJ4&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=6)
+
+https://pythonprogramming.net/user-registration-django-tutorial/?completed=/css-django-tutorial/
+
+## [Messages and Includes](https://www.youtube.com/watch?v=0VGJPg0SQIY&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3&index=7)
+
+https://pythonprogramming.net/messages-django-tutorial/?completed=/user-registration-django-tutorial/

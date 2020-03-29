@@ -19,5 +19,6 @@ from . import views
 app_name = "crawlers_auto"
 
 urlpatterns = [
-    path('', views.homepage, name="homepage")
+    path('', views.homepage, name="homepage"),
+    path('register/', views.register, name="register")
 ]
